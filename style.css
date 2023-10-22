@@ -1,0 +1,256 @@
+@media screen and (max-width:1200px) {
+    header{
+        font-size:56px ;
+    }
+    .prizrak{
+        font-size:56px ;
+    }
+    .kar{
+        font-size:56px ;
+    }
+    .rak{
+        font-size:56px ;
+    }
+    
+}
+@media screen and (max-width:998px) {
+    header{
+        font-size:46px ;
+    }
+    .prizrak{
+        font-size:46px ;
+    }
+    .kar{
+        font-size:46px ;
+    }
+    .rak{
+        font-size:46px ;
+    }
+    
+}
+@media screen and (max-width:768px) {
+    header{
+        font-size:28px ;
+    }
+    .prizrak{
+        font-size:28px ;
+    }
+    .kar{
+        font-size:28px ;
+    }
+    .rak{
+        font-size:28px ;
+    }
+    
+}
+@media screen and (max-width:576px) {
+    header{
+        font-size:24px ;
+    }
+    .prizrak{
+        font-size:24px ;
+    }
+    .kar{
+        font-size:24px ;
+    }
+    .rak{
+        font-size:24px ;
+    }
+
+    
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+
+    margin: 0;
+}
+.header {
+    background-image: url(ПОН.jpg);
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%; 
+    background-size: 100% 100%;
+    height: auto; 
+    background-repeat: no-repeat;
+     
+
+
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.header-line{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-item{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 50px;
+    transition: color 0.3s linear;
+
+}
+.nav-item:hover{
+    color: #c50aeb;
+}
+.header-title{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+.header-subtitle{
+
+}
+.text{
+    color: #fff;
+    text-align: center; 
+}
+.text1{
+    color: #fff;
+    text-align:left;
+}
+.text2{
+    color: #fff;
+}
+.prizrak{
+    background-image: url(prizrak.jpg);
+    height: auto;
+    background-repeat: no-repeat;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%; 
+    background-size: 100% 100%;
+
+}
+.pri{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    background-color:rgb(59, 58, 58) ;
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.prizrak-pol{
+    color: #fff;
+    text-align: left;
+    font-weight: 100;
+    font-size: 30px;
+}
+.prizrak-pol1{
+    color: #fff;
+    text-align: left;
+    font-size: 17px;
+}
+.prizrak-vis{
+    color: #fff;
+    text-align: left;
+    font-weight: 100;
+    font-size: 30px;
+}
+.prizrak-vis1{
+    color: #fff;
+    text-align: left;
+    font-size: 17px;
+}
+.heade-down{
+    background-color:rgb(59, 58, 58) ;
+    width: 50%;
+    margin:auto;
+    margin-top: 25px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.prizraki-tyt{
+    color: #fff;
+    text-align:left;
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 50px;
+
+}
+.prizrak-item{
+    color: #fff;
+    text-align: left;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 50px;
+    
+
+}
+.pr{
+    text-align: left;
+    margin-right: 50px;
+    font-weight: 700;
+}
+.rak{
+    background-image: url(lol.jpg);
+    height: 100vh ; 
+    background-repeat: no-repeat;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%; 
+    background-size: 100% 100%;  
+
+}
+.kar{
+    background-image: url(pop.jpg);
+    height: auto ; 
+    background-repeat: no-repeat;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%; 
+    background-size: 100% 100%;  
+
+}
+.pre-title{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+.pre-tyt{
+    color: #fff;
+    text-align:left;
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 50px;
+
+}
+.pre{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    background-color:rgb(59, 58, 58) ;
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.baba{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    background-color:rgb(59, 58, 58) ;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 20px;
+    img { max-width: 100%; height: auto; }
+}
+
+
+
