@@ -194,7 +194,7 @@ body{
 }
 .rak{
     background-image: url(lol.jpg);
-    height: 100vh ; 
+    height: auto ; 
     background-repeat: no-repeat;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
@@ -249,7 +249,7 @@ body{
     margin-top: 50px;
     border-radius: 20px;
     padding: 20px;
-    img { max-width: 100%; height: auto; }
+
 }
 
 
